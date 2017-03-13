@@ -1,5 +1,8 @@
 _repo: The-Adventure-of-the-Dying-Detective_2347
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -16,6 +19,8 @@ description: "\"The Adventure of the Dying Detective\", in some editions simply 
   \ \"The Dying Detective\", is one of the 56 Sherlock Holmes short stories written\
   \ by British author Sir Arthur Conan Doyle. Together with seven other stories, it\
   \ is collected as His Last Bow.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2347#The-Adventure-of-the-Dying-Detective
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
